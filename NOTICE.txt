@@ -1,0 +1,25 @@
+Hi Dear!
+	one of the important Notice for all of you!
+You've  must downloaded following for execution of my programs
+1. python(>3.6)
+2. pygame module in python(//pip install pygame)
+3. requests module in python(//pip install requests)
+4. json module in python (//pip insatll json)
+5. speech_recognition module in python(//pip install speechRecognition)
+6. webbrowser module in python(//pip install webbrowser)
+7. os module in python (//pip insatll os)
+8. pytube module in python(//pip install pytube)
+9. tkinter module in python(//pip install Tkinter)
+10. win32 module in python (//pip insatll win32)
+11. wikipedia module in python (//pip insatll wikipedia)
+12. smtplib in python(//pip install smtplib)
+13. gtts module in python(//pip install gTTs)
+14. googletrans module in python (//pip insatll googletrans)
+15. pyttsx3 module in python(//pip install pyttsx3)
+16. TextBlob module in python(//pip install TextBlob)
+17. AS shown in above you can download other module using pip
+    and then you've no any problem to face.
+
+    Thank You! 
+		   Enjoy Your Moments!!
+   						Good Luck!!!
